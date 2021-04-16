@@ -1,0 +1,6 @@
+Task Description: Create a PowerShell script that will create 10 copies of the XML file with a different Artist and Title (the value of the th tag).
+
+
+FYI:
+task.ps1-powershel works normally and does all required instructions in description above.
+task-2nd verion.ps1- also works. But during replacing Title and Artist there is a little problem.  
